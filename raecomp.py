@@ -1,6 +1,6 @@
 """
-Una implementaciÃ³n mÃ¡s completa que raesimple.py. 
-VÃ©ase raesimple.py para mÃ¡s informaciÃ³n.
+Una implementación más completa que raesimple.py. 
+Véase raesimple.py para más información.
 """
 
 import android
@@ -8,7 +8,7 @@ import urllib2
 import urllib
 import time
 
-# agregar funciÃ³n que rodea lo necesario para mostrar rae y 
+# agregar función que inserta lo necesario en html de rae y 
 # tener la funcionalidad deseada
 
 def busca_rae(termino):
